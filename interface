@@ -1,11 +1,21 @@
 <html>
 
 <body>
-  <li>
+  <ul>
+    <li><a href="index.html"> Home </a></li>
+    <li> <a href="#apps"> Apps </a> </li>
+    <li><a href="#art"> Art </a> </li>
+    <li><a href=#connect> Connect </a> </li>
+    li {
+  display: block;
+  padding: 16px 50px;
 
+  
+}
 
-
-
+li a:hover{
+  background-color: #111;
+}
 </body>
 
 </html>
