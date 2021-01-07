@@ -1,6 +1,7 @@
 
 body {
   background-image: linear-gradient(to bottom right, red, yellow);
+  margin: 0;
 }
 ul {
   list-style-type: none;
