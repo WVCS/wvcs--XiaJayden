@@ -24,6 +24,7 @@ li a {
   padding: 20px 130px;
   text-decoration: none;
   font-family: Arial, sans-serif;
+  position: fixed;
 }
 li a:hover {
   background-color: #111;
