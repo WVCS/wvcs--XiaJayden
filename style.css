@@ -6,7 +6,7 @@ body {
 ul {
   list-style-type: none;
   margin: 0;
-  padding: 30;
+  padding: 30px;
   overflow: hidden;
   background-color: #333;
   
@@ -20,8 +20,8 @@ li a {
   
   display: block;
   color: white;
-  text-align: center;
-  padding: 20px 130px;
+  text-align: inline-block;
+  padding: 130px;
   text-decoration: none;
   font-family: Arial, sans-serif;
   position: fixed;
